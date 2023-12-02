@@ -61,13 +61,22 @@ import S9 from '../components/S9';
 import SKY1 from '../components/SKY1';
 import T1 from '../components/T1';
 import T2 from '../components/T2';
+import R1 from '../components/R1';
+import R2 from '../components/R2';
+import R3 from '../components/R3';
+import R4 from '../components/R4';
+import R5 from '../components/R5';
+import R6 from '../components/R6';
+import R7 from '../components/R7';
+import R8 from '../components/R8';
+import R9 from '../components/R9';
 
 
 const App = () => {
   return (
     <div className="container">
         <div class="header">
-          <h1>Kaori & Nader</h1>
+          <h1>K-N</h1>
         </div>
         <div id="gallery">
           <Bb1 />
@@ -132,6 +141,15 @@ const App = () => {
           <SKY1 />
           <T1 />
           <T2 />
+          <R1 />
+          <R2 />
+          <R3 />
+          <R4 />
+          <R5 />
+          <R6 />
+          <R7 />
+          <R8 />
+          <R9 />
 
         </div>
     </div>
